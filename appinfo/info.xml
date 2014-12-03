@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<info>
+		<id>activity_additional</id>
+		<name>Activity Additional</name>
+		<description>Activity App Additional Option.</description>
+		<licence>AGPL</licence>
+		<author>Begood Technology Corp.</author>
+		<require>4.9</require>
+		<types>
+				<filesystem/>
+		</types>
+</info>
